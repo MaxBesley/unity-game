@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  - item
+  - ground
+  - HUD
+  - resume
+  - toMenu
+  - quit
+  - spawner
+  - Background
+  - crosshair
+  - island1
+  - island2
+  - island3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - IgnoreCollision
+  - Water
+  - UI
+  - ground
+  - enemy
+  - table
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Item black
+    uniqueID: 1737115529
+    locked: 0
+  - name: Task
+    uniqueID: 2098671579
+    locked: 0
+  - name: HUD
+    uniqueID: 3295145887
+    locked: 0
+  - name: Background
+    uniqueID: 4011074161
+    locked: 0

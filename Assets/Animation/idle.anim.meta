@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Animation/Weapon 1.controller.meta
+guid: 403d53638c34f0246ac434a580dca995
+========
+guid: e941078b29f300648b50eea80899c668
+>>>>>>>> feature/combat:Assets/Animation/idle.anim.meta
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
